@@ -6,8 +6,6 @@ Transform your text content into professional PowerPoint presentations using AI 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-![Demo Screenshot](assets/demo-screenshot.png)
-
 ## ✨ Features
 
 ### 🤖 **AI-Powered Content Analysis**
